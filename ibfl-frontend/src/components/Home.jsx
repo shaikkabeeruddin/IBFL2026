@@ -47,9 +47,9 @@ function Home() {
       <div className="table-container">
         <div className="table-header">League Summary</div>
         <div style={{ padding: '2rem' }}>
-          <h3 style={{ marginBottom: '1rem' }}>Welcome to IBFL Season 4!</h3>
+          <h3 style={{ marginBottom: '1rem' }}>Welcome to IBFL Season 5!</h3>
           <p style={{ marginBottom: '1rem' }}>
-            The Inter Bhimavaram Football League returns for its 4th season.
+            The Inter Bhimavaram Football League returns for its 5th season.
             This season is organized by SAGI RAMA KRISHNAM RAJU ENGINEERING COLLEGE
             through the SRKREC Football Club.
           </p>
