@@ -19,7 +19,7 @@ function Header({ isAuthenticated, username, onLoginClick, onLogout }) {
           </div>
           <div className="logo-section">
             <div className="logo">IBFL</div>
-            <span className="logo">SEASON 4</span>
+            <span className="logo">SEASON 5</span>
           </div>
           <div className="auth-section">
             {isAuthenticated && <span>Welcome, {username}</span>}
